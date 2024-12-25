@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-url-params-template",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Construct URL params with URLSearchParams not template literals",
   "keywords": [
     "url",
@@ -12,7 +12,7 @@
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "S Anand <s.anand@gramener.com>",
+  "author": "S Anand <root.node@gmail.com>",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
   "scripts": {
@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gramener/eslint-plugin-no-url-params-template.git"
+    "url": "git+https://github.com/sanand0/eslint-plugin-no-url-params-template.git"
   },
   "license": "MIT"
 }

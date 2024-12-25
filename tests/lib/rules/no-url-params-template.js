@@ -1,6 +1,6 @@
 /**
  * @fileoverview Construct URL params with URLSearchParams not template literals
- * @author S Anand &lt;s.anand@gramener.com&gt;
+ * @author S Anand &lt;root.node@gmail.com&gt;
  */
 "use strict";
 
